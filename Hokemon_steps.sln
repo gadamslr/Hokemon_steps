@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hokemon_steps", "Hokemon_steps\Hokemon_steps.csproj", "{4BAAE4D7-B92C-474C-9272-B68CF9149725}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BAAE4D7-B92C-474C-9272-B68CF9149725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BAAE4D7-B92C-474C-9272-B68CF9149725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BAAE4D7-B92C-474C-9272-B68CF9149725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BAAE4D7-B92C-474C-9272-B68CF9149725}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {320A2322-740A-46F8-9015-011CF6766B52}
+	EndGlobalSection
+EndGlobal
